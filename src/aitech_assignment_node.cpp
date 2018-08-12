@@ -9,9 +9,6 @@
 #include "sensor_msgs/LaserScan.h"
 #include "iomanip"
 
-/**
- * This tutorial demonstrates simple sending of messages over the ROS system.
- */
 
 /**std::vector<float> range2point(float ang_min,float ang_max, float inc,float range, int indx){
 
